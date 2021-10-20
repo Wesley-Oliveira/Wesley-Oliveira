@@ -11,7 +11,7 @@ Programmer since 2015, always looking for new challenges and with a thirst for l
 
 I seek to become a **backend development** specialist to create scalable and robust API's.
 
-- 🔭 I’m currently working on [GREat](https://www.great.ufc.br/)
+- 🔭 I’m currently working on [ioasys](https://ioasys.com.br/)
 - 🌱 I’m currently learning Node.js, AWS, Docker, Unity, JavaScript and TypeScript
 - 👯 I’m looking to collaborate on open-source projects
 - 🤔 I’m looking for help with my knowledge
